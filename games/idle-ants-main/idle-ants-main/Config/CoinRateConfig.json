@@ -1,0 +1,106 @@
+{
+    "1": {
+        "CostCoin": 0,
+        "CoinRate": 5
+    },
+    "2": {
+        "CostCoin": 300,
+        "CoinRate": 17
+    },
+    "3": {
+        "CostCoin": 1000,
+        "CoinRate": 38
+    },
+    "4": {
+        "CostCoin": 2300,
+        "CoinRate": 78
+    },
+    "5": {
+        "CostCoin": 4700,
+        "CoinRate": 150
+    },
+    "6": {
+        "CostCoin": 9000,
+        "CoinRate": 275
+    },
+    "7": {
+        "CostCoin": 16500,
+        "CoinRate": 500
+    },
+    "8": {
+        "CostCoin": 30000,
+        "CoinRate": 867
+    },
+    "9": {
+        "CostCoin": 52000,
+        "CoinRate": 1500
+    },
+    "10": {
+        "CostCoin": 90000,
+        "CoinRate": 2500
+    },
+    "11": {
+        "CostCoin": 150000,
+        "CoinRate": 4167
+    },
+    "12": {
+        "CostCoin": 250000,
+        "CoinRate": 7000
+    },
+    "13": {
+        "CostCoin": 420000,
+        "CoinRate": 11667
+    },
+    "14": {
+        "CostCoin": 700000,
+        "CoinRate": 19167
+    },
+    "15": {
+        "CostCoin": 1150000,
+        "CoinRate": 31667
+    },
+    "16": {
+        "CostCoin": 1900000,
+        "CoinRate": 50000
+    },
+    "17": {
+        "CostCoin": 3000000,
+        "CoinRate": 83333
+    },
+    "18": {
+        "CostCoin": 5000000,
+        "CoinRate": 136667
+    },
+    "19": {
+        "CostCoin": 8200000,
+        "CoinRate": 220000
+    },
+    "20": {
+        "CostCoin": 13200000,
+        "CoinRate": 366667
+    },
+    "21": {
+        "CostCoin": 22000000,
+        "CoinRate": 583333
+    },
+    "22": {
+        "CostCoin": 35000000,
+        "CoinRate": 916667
+    },
+    "23": {
+        "CostCoin": 55000000,
+        "CoinRate": 1500000
+    },
+    "24": {
+        "CostCoin": 90000000,
+        "CoinRate": 2325000
+    },
+    "25": {
+        "CostCoin": 14000000,
+        "CoinRate": 3653571
+    },
+    "26": {
+        "CostCoin": 22000000,
+        "CoinRate": 7307143
+    }
+}
